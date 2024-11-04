@@ -10,7 +10,7 @@ This Streamlit app provides an interactive analysis of watch data, comparing Tim
 
 ## Deployment
 
-The app is deployed on Streamlit Cloud and can be accessed here: [Watch Data Analysis App](https://share.streamlit.io/yourusername/watch-data-analysis/app.py)
+The app is deployed on Streamlit Cloud and can be accessed here: [Watch Data Analysis App](https://timezappanalysis-jqrjx5bnspuhpvupwtruat.streamlit.app/)
 
 ## Running Locally
 
