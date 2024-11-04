@@ -329,13 +329,13 @@ exclude_missing = st.sidebar.checkbox(
 
 exclude_missing_diameter = st.sidebar.checkbox(
     "Exclude records with missing case diameter values",
-    value=False,
+    value=True,
     help="Check to exclude records with missing case diameter values.",
 )
 
 exclude_missing_material = st.sidebar.checkbox(
     "Exclude records with missing case material values",
-    value=False,
+    value=True,
     help="Check to exclude records with missing case material values.",
 )
 
