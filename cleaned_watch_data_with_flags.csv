@@ -1,0 +1,800 @@
+Brand,ModelNumber,Price_YourData,Price_TimeZ,CaseDiameter_YourData,CaseDiameter_TimeZ,CaseMaterial_YourData,CaseMaterial_TimeZ,CaseMaterial_YourData_Std,CaseMaterial_TimeZ_Std,Price_Match,CaseDiameter_Match,CaseMaterial_Match
+Panerai,PAM01087,5600.0,5600.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01086,5600.0,5600.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01085,6100.0,6100.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01084,6100.0,6100.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM00914,7100.0,7100.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM00915,7600.0,7600.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM00422,10800.0,10800.0,47.0,47.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01371,7800.0,7800.0,40.0,40.0,Steel,"Stainless Steel,Stainless Steel",other,other,True,True,True
+Panerai,PAM01370,7800.0,7800.0,40.0,40.0,Steel,"Stainless Steel,Stainless Steel",other,other,True,True,True
+Panerai,PAM01372,7800.0,7800.0,40.0,40.0,Steel,"Stainless Steel,Stainless Steel",other,other,True,True,True
+Panerai,PAM01408,9300.0,9300.0,40.0,40.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01314,8800.0,8800.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01313,8800.0,8800.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01312,8800.0,8800.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01356,9400.0,9400.0,44.0,44.0,Esteel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01157,9400.0,9400.0,44.0,44.0,Esteel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01358,9400.0,9400.0,44.0,44.0,Esteel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01564,9500.0,9500.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01316,9500.0,9500.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01562,9500.0,9500.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01412,9800.0,9800.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM02661,14800.0,14800.0,44.0,44.0,Carbotech,,other,,True,True,False
+Panerai,PAM01529,16200.0,16200.0,44.0,44.0,Carbotech,,other,,True,True,False
+Panerai,PAM02662,16300.0,16300.0,44.0,44.0,Titane - Carbotech,"Titanium,Titanium Gold",other,other,True,True,True
+Panerai,PAM01112,26800.0,26800.0,44.0,44.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM01367,9200.0,9200.0,40.0,40.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01365,9200.0,9200.0,40.0,40.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01404,9600.0,9600.0,40.0,40.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01360,10600.0,10600.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01361,10600.0,10600.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01467,12700.0,12700.0,44.0,44.0,Titanium Dlc,Titanium,other,other,True,True,True
+Panerai,PAM01441,14900.0,14900.0,44.0,44.0,Titanium,"Titanium,Ceramic",other,other,True,True,True
+Panerai,PAM01218,10000.0,10000.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01109,10000.0,10000.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01548,10800.0,10800.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01110,10800.0,10800.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01219,16600.0,16600.0,44.0,44.0,Carbotech,,other,,True,True,False
+Panerai,PAM01498,17700.0,17700.0,44.0,44.0,Titanium,Ceramic,other,other,True,True,True
+Panerai,PAM01111,29400.0,29400.0,44.0,44.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM01519,48000.0,48000.0,44.0,44.0,Carbotech,,other,,True,True,False
+Panerai,PAM01409,11000.0,11000.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01419,17900.0,17900.0,44.0,44.0,Carbotech,,other,,True,True,False
+Panerai,PAM01299,18200.0,18200.0,47.0,47.0,Titanium,Titanium,other,other,True,True,True
+Panerai,PAM00742,48000.0,48000.0,44.0,44.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM00715,66400.0,66400.0,44.0,44.0,Platinumtech,,other,,True,True,False
+Panerai,PAM00670,24000.0,24000.0,47.0,47.0,Titanium,Titanium,other,other,True,True,True
+Panerai,PAM01060,174300.0,174300.0,47.0,47.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM00920,235200.0,235200.0,50.0,50.0,Titanium,Titanium,other,other,True,True,True
+Panerai,PAM01565,11300.0,11300.0,42.0,42.0,Steel - Ceramic,Stainless Steel,other,other,True,True,True
+Panerai,PAM01507,12300.0,12300.0,42.0,42.0,Titanium,Titanium,other,other,True,True,True
+Panerai,PAM01543,16600.0,16600.0,44.0,44.0,Ti-Ceramitech,,other,,True,True,False
+Panerai,PAM01466,16600.0,16600.0,44.0,44.0,Ti-Ceramitech,,other,,True,True,False
+Panerai,PAM01405,179900.0,179900.0,45.0,45.0,Carbotech,,other,,True,True,False
+Panerai,PAM02223,9500.0,9500.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM02979,20200.0,20200.0,47.0,47.0,Carbotech,,other,,True,True,False
+Panerai,PAM02683,10500.0,10500.0,42.0,42.0,Steel - Ceramic,Stainless Steel,other,other,True,True,True
+Panerai,PAM02068,11700.0,11700.0,42.0,42.0,Steel - Ceramic,Stainless Steel,other,other,True,True,True
+Panerai,PAM02231,17600.0,17600.0,42.0,42.0,Carbotech,,other,,True,True,False
+Panerai,PAM01074,17700.0,17700.0,42.0,42.0,Bronze,"Titanium,Bronze",other,other,True,True,True
+Panerai,PAM01229,9900.0,9900.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01323,11100.0,11100.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01288,11600.0,11600.0,44.0,44.0,Esteel,"Ceramic,Stainless Steel",other,other,True,True,True
+Panerai,PAM01289,11600.0,11600.0,44.0,44.0,Esteel,"Ceramic,Stainless Steel",other,other,True,True,True
+Panerai,PAM01287,11600.0,11600.0,44.0,44.0,Esteel,"Ceramic,Stainless Steel",other,other,True,True,True
+Panerai,PAM01232,18600.0,18600.0,44.0,44.0,Carbotech,"Titanium,Carbon",other,other,True,True,True
+Panerai,PAM01402,61700.0,61700.0,47.0,47.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM02305,10700.0,10700.0,47.0,47.0,Titanium,Stainless Steel,other,other,True,True,True
+Panerai,PAM02692,14800.0,14800.0,47.0,47.0,Bmg-Tech™,,other,,True,True,False
+Panerai,PAM02239,30400.0,30400.0,47.0,47.0,Titanium,Titanium,other,other,True,True,True
+Panerai,PAM01403,48000.0,48000.0,47.0,47.0,Titane - Carbotech,Titanium,other,other,True,True,True
+Panerai,PAM01283,48000.0,48000.0,47.0,47.0,Carbotech,,other,,True,True,False
+Panerai,PAM01285,87000.0,87000.0,47.0,47.0,Carbotech,,other,,True,True,False
+Panerai,PAM00968,18600.0,18600.0,47.0,47.0,Bronze - Ceramic,"Titanium,Ceramic,Bronze",other,other,True,True,True
+Panerai,PAM02164,29900.0,29900.0,42.0,42.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM02070,33300.0,33300.0,44.0,44.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM01248,6900.0,6900.0,38.0,38.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01273,6900.0,6900.0,38.0,38.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01247,6900.0,6900.0,38.0,38.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01123,7700.0,7700.0,38.0,38.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01425,6900.0,6900.0,38.0,38.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01426,6900.0,6900.0,38.0,38.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01378,7400.0,7400.0,38.0,38.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01311,7900.0,7900.0,38.0,38.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01319,7900.0,7900.0,38.0,38.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01309,7900.0,7900.0,38.0,38.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01180,9600.0,9600.0,38.0,38.0,Steel,"Stainless Steel,Stainless Steel",other,other,True,True,True
+Panerai,PAM01179,9600.0,9600.0,38.0,38.0,Steel,"Stainless Steel,Stainless Steel",other,other,True,True,True
+Panerai,PAM01301,10400.0,10400.0,38.0,38.0,Steel,"Stainless Steel,Stainless Steel",other,other,True,True,True
+Panerai,PAM01388,7300.0,7300.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01274,7300.0,7300.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01250,7300.0,7300.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01124,8100.0,8100.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01428,7300.0,7300.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01429,7300.0,7300.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01381,7800.0,7800.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01424,7300.0,7300.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01280,18600.0,18600.0,38.0,38.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM01326,37200.0,37200.0,38.0,38.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM01182,37200.0,37200.0,38.0,38.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM01181,21500.0,21500.0,38.0,38.0,Goldtech,Red Gold,other,other,True,True,True
+Panerai,PAM01504,40200.0,40200.0,38.0,38.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM01423,21500.0,21500.0,42.0,42.0,Yellow Gold,Yellow Gold,other,other,True,True,True
+Panerai,PAM01336,21500.0,21500.0,42.0,42.0,Goldtech,Rose Gold,other,other,True,True,True
+Panerai,PAM01329,39200.0,39200.0,42.0,42.0,Platinumtech,,other,,True,True,False
+Panerai,PAM01383,4900.0,4900.0,45.0,45.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01384,5400.0,5400.0,45.0,45.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01385,5400.0,5400.0,45.0,45.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01334,7100.0,7100.0,45.0,47.0,Steel,Stainless Steel,other,other,True,False,True
+Panerai,PAM01335,7100.0,7100.0,45.0,47.0,Steel,Stainless Steel,other,other,True,False,True
+Panerai,PAM01350,7100.0,7100.0,45.0,45.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01347,9700.0,9700.0,45.0,45.0,Steel With Pvd Coating,eSteel™,other,other,True,True,True
+Panerai,PAM01348,9700.0,9700.0,45.0,45.0,Steel With Pvd Coating,eSteel™,other,other,True,True,True
+Panerai,PAM01349,12300.0,12300.0,45.0,45.0,Steel With Pvd Coating,eSteel™,other,other,True,True,True
+Panerai,PAM00760,18600.0,18600.0,47.0,47.0,Bronze,"Bronze,Stainless Steel",other,other,True,True,True
+Panerai,PAM01026,18200.0,18200.0,40.0,40.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM01437,18200.0,18200.0,40.0,40.0,Yellow Gold,Yellow Gold,other,other,True,True,True
+Panerai,PAM01363,36900.0,36900.0,45.0,45.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM01364,54500.0,54500.0,45.0,45.0,Platinumtech,,other,,True,True,False
+Panerai,PAM01432,81000.0,81000.0,45.0,45.0,Platinumtech,,other,,True,True,False
+Panerai,PAM01284,156800.0,156800.0,45.0,45.0,Bronze,,other,,True,True,False
+Panerai,PAM00600,415000.0,415000.0,49.0,49.0,Goldtech,Red Gold,other,other,True,True,True
+Panerai,PAM01482,15200.0,15200.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01483,19500.0,19500.0,44.0,44.0,Ceramic,Ceramic,other,other,True,True,True
+Panerai,PAM01570,6000.0,6000.0,40.0,40.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01572,6000.0,6000.0,40.0,40.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01573,6000.0,6000.0,40.0,40.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01382,4900.0,4900.0,45.0,45.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01623,5600.0,5600.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01624,6100.0,6100.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01641,25400.0,25400.0,40.0,40.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM01681,12100.0,12100.0,44.0,40.0,Esteel,Stainless Steel,other,other,True,False,True
+Panerai,PAM01563,18100.0,18100.0,42.0,42.0,Carbotech,,other,,True,True,False
+Panerai,PAM01513,19700.0,19700.0,44.0,44.0,Carbotech,,other,,True,True,False
+Panerai,PAM01669,13700.0,13700.0,47.0,47.0,Titanium,Titanium,other,other,True,True,True
+Panerai,PAM02616,18900.0,18900.0,47.0,47.0,Carbotech,,other,,True,True,False
+Panerai,PAM01521,34200.0,34200.0,47.0,47.0,Titanium,Titanium,other,other,True,True,True
+Panerai,PAM01800,99600.0,99600.0,49.0,49.0,Ti-Ceramitech,,other,,True,True,False
+Panerai,PAM02025,8800.0,8800.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01442,41200.0,41200.0,42.0,42.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM01387,8300.0,8300.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01494,41200.0,41200.0,42.0,42.0,Goldtech,Goldtech,other,other,True,True,True
+Panerai,PAM02973,9500.0,9500.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01579,11000.0,11000.0,42.0,42.0,Steel - Ceramic,Stainless Steel,other,other,True,True,True
+Panerai,PAM01595,9900.0,9900.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01539,8300.0,8300.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01518,10200.0,10200.0,44.0,44.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01508,7900.0,7900.0,38.0,38.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01640,9800.0,9800.0,40.0,40.0,Steel,Stainless Steel,other,other,True,True,True
+Panerai,PAM01526,13300.0,13300.0,40.0,40.0,Carbotech,,other,,True,True,False
+Panerai,PAM01571,6000.0,6000.0,40.0,40.0,Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,85180/000J-H069,35300.0,35300.0,40.0,40.0,Yellow Gold,Gold,other,other,True,True,True
+Vacheron Constantin,7920V/210R-B965,75500.0,75500.0,41.0,41.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,5520V/210R-B966,79500.0,79500.0,42.5,42.5,18K Pink Gold,Rose Gold,other,other,True,True,True
+Vacheron Constantin,4520V/210R-B967,60500.0,60500.0,41.0,41.0,18K Pink Gold,Rose Gold,other,other,True,True,True
+Vacheron Constantin,1225V/200R-H031,51500.0,51500.0,33.0,33.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4600E/000R-H101,25500.0,25500.0,40.0,40.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,86073/000P-H033,,,40.0,40.0,950 Platinum,,other,,False,True,False
+Vacheron Constantin,86073/000R-H034,,,40.0,40.0,18K Pink Gold,Pink Gold,other,other,False,True,True
+Vacheron Constantin,2405A/000G-H021,,,38.0,38.0,White Gold,White Gold,other,other,False,True,True
+Vacheron Constantin,2405A/000R-H022,,,38.0,38.0,18K Pink Gold,"Blue,Rose Gold,Silver",other,other,False,True,True
+Vacheron Constantin,2400A/000G-H023,,,38.0,38.0,White Gold,White Gold,other,other,False,True,True
+Vacheron Constantin,2400A/000R-H024,,,38.0,38.0,18K Pink Gold,Pink Gold,other,other,False,True,True
+Vacheron Constantin,5100T/000P-H041,,,42.5,42.5,950 Platinum,,other,,False,True,False
+Vacheron Constantin,4010U/000G-H070,49400.0,49400.0,42.5,42.5,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,1410U/000G-H017,25200.0,25200.0,39.0,39.0,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,1410U/000R-H018,25200.0,25200.0,39.0,39.0,18K Pink Gold,Rose Gold,other,other,True,True,True
+Vacheron Constantin,8005F/000R-H030,43100.0,43100.0,37.0,37.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,6000V/210T-H032,,,42.5,42.5,Titanium,Titanium,other,other,False,True,True
+Vacheron Constantin,4605V/200R-B969,58500.0,58500.0,35.0,35.0,18K Pink Gold,Rose Gold,other,other,True,True,True
+Vacheron Constantin,8005F/000R-B498,39300.0,39300.0,37.0,37.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,6007V/210G-B955,,1980000.0,42.5,42.5,White Gold,White Gold,other,other,False,True,True
+Vacheron Constantin,82172/000R-H008,23700.0,23700.0,38.0,38.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4300V/220R-B509,115000.0,115000.0,41.5,41.5,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4300V/220R-B064,115000.0,115000.0,41.5,41.5,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4300V/220G-B945,115000.0,115000.0,41.5,41.5,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,4300V/220R-B547,,130000.0,41.5,41.5,18K Pink Gold,Pink Gold,other,other,False,True,True
+Vacheron Constantin,4300V/220R-B642,,1170000.0,41.5,41.5,18K Pink Gold,Pink Gold,other,other,False,True,True
+Vacheron Constantin,4300V/220G-B946,,130000.0,41.5,41.5,White Gold,White Gold,other,other,False,True,True
+Vacheron Constantin,7500U/000R-B994,,1310000.0,41.0,41.0,Pink Gold,Pink Gold,other,other,False,True,True
+Vacheron Constantin,7500U/000G-B991,,1310000.0,41.0,41.0,White Gold,White Gold,other,other,False,True,True
+Vacheron Constantin,6000V/210T-B935,,1430000.0,42.5,42.5,Titanium,Titanium,other,other,False,True,True
+Vacheron Constantin,6000V/210R-B934,,1630000.0,42.5,42.5,18K Pink Gold,Pink Gold,other,other,False,True,True
+Vacheron Constantin,6000V/210R-B733,,1320000.0,42.5,42.5,18K Pink Gold,Rose Gold,other,other,False,True,True
+Vacheron Constantin,5520V/210R-B952,79500.0,79500.0,42.5,42.5,18K Pink Gold,"Rose Gold,Pink Gold",other,other,True,True,True
+Vacheron Constantin,5520V/210A-B481,35600.0,35600.0,42.5,42.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,5520V/210A-B686,35600.0,35600.0,42.5,42.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,5520V/210A-B148,35600.0,35600.0,42.5,42.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,7920V/000R-B336,48500.0,48500.0,41.0,41.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,7920V/210A-B333,30900.0,30900.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,7920V/210A-B546,30900.0,30900.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,7920V/210A-B334,30900.0,30900.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,4116U/000G-B909,82000.0,82000.0,37.0,37.0,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,6000T/000P-H025,,,41.0,41.0,950 Platinum,,other,,False,True,False
+Vacheron Constantin,6010T/000R-B638,,,41.0,41.0,18K Pink Gold,Pink Gold,other,other,False,True,True
+Vacheron Constantin,5100T/000R-B623,,1570000.0,42.5,42.5,18K Pink Gold,Pink Gold,other,other,False,True,True
+Vacheron Constantin,6035T/000R-B634,,1170000.0,39.0,39.0,18K Pink Gold,Pink Gold,other,other,False,True,True
+Vacheron Constantin,6000E/000R-B488,,130000.0,41.0,41.0,18K Pink Gold,Pink Gold,other,other,False,True,True
+Vacheron Constantin,6000T/000R-B346,,131000.0,41.0,41.0,18K Pink Gold,Pink Gold,other,other,False,True,True
+Vacheron Constantin,6025T/000G-B635,,1560000.0,39.0,39.0,White Gold,White Gold,other,other,False,True,True
+Vacheron Constantin,6000V/110A-B544,,129000.0,42.5,42.5,Stainless Steel,Stainless Steel,other,other,False,True,True
+Vacheron Constantin,5000T/000P-B975,,1166000.0,43.0,43.0,950 Platinum,,other,,False,True,False
+Vacheron Constantin,5000H/000R-B059,64000.0,64000.0,38.5,38.5,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,5000H/000A-B582,47600.0,47600.0,38.5,38.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,3200T/002P-B578,,,42.0,42.0,950 Platinum,,other,,False,True,False
+Vacheron Constantin,4020T/000R-B654,53000.0,53000.0,41.0,41.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4606F/000R-B648,66000.0,66000.0,35.0,35.0,18K Pink Gold,"Pink Gold,Red Gold",other,other,True,True,True
+Vacheron Constantin,7620A/000R-B927,,,42.0,42.0,18K Pink Gold,"Pink Gold,Red Gold",other,other,False,True,True
+Vacheron Constantin,7620A/000R-B926,,,42.0,42.0,18K Pink Gold,"Pink Gold,Red Gold",other,other,False,True,True
+Vacheron Constantin,7500U/000R-B992,,1310000.0,41.0,41.0,Pink Gold,Pink Gold,other,other,False,True,True
+Vacheron Constantin,4600V/200R-B979,52000.0,52000.0,34.5,34.5,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4605F/000R-B496,34100.0,34100.0,35.0,35.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4010T/000R-B344,45300.0,45300.0,41.0,41.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4605V/200R-B968,58500.0,58500.0,35.0,35.0,18K Pink Gold,Gold,other,other,True,True,True
+Vacheron Constantin,4000E/000R-B065,44500.0,44500.0,40.0,40.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4605F/110R-B496,45800.0,45800.0,35.0,35.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4400E/000R-B436,44500.0,44500.0,40.0,40.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4605V/200R-B978,58500.0,58500.0,35.0,35.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4000E/000R-B438,44500.0,44500.0,40.0,40.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4305T/000R-B947,88000.0,88000.0,36.5,36.5,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,43175/000R-B519,88000.0,88000.0,41.0,41.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,43175/000R-9687,88000.0,88000.0,41.0,41.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4020T/000G-B655,53000.0,53000.0,41.0,41.0,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,4606F/000G-B649,66000.0,66000.0,35.0,35.0,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,7620A/000G-B929,,1200000.0,42.0,42.0,White Gold,White Gold,other,other,False,True,True
+Vacheron Constantin,7620A/000G-B928,,,42.0,42.0,White Gold,White Gold,other,other,False,True,True
+Vacheron Constantin,7500U/000G-B993,,1310000.0,41.0,41.0,White Gold,White Gold,other,other,False,True,True
+Vacheron Constantin,4305T/000G-B948,88000.0,88000.0,36.5,36.5,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,4010T/000G-B740,45300.0,45300.0,41.0,41.0,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,4000E/000A-B439,27400.0,27400.0,40.0,40.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,4000E/000A-B548,27400.0,27400.0,40.0,40.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,4400E/000A-B437,27400.0,27400.0,40.0,40.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,4605F/110A-B495,23400.0,23400.0,35.0,35.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,4605V/200A-B971,30500.0,30500.0,35.0,35.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,4600V/200A-B980,23100.0,23100.0,34.5,34.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,4000U/000P-H003,62000.0,62000.0,42.5,42.5,950 Platinum,,other,,True,True,False
+Vacheron Constantin,4000U/000R-B516,49400.0,49400.0,42.5,42.5,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4000U/000R-B110,49400.0,49400.0,42.5,42.5,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,8005F/000R-B958,39300.0,39300.0,37.0,37.0,18K Pink Gold,"Pink Gold,Red Gold",other,other,True,True,True
+Vacheron Constantin,8016F/127R-B977,,,37.0,37.0,18K Pink Gold,Gold,other,other,False,True,True
+Vacheron Constantin,8005F/120R-H002,57000.0,57000.0,37.0,37.0,18K Pink Gold,"Pink Gold,Red Gold",other,other,True,True,True
+Vacheron Constantin,7000M/000R-B109,40400.0,40400.0,4236.7,4236.7,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4010U/000R-B329,49400.0,49400.0,42.5,42.5,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,8006F/000R-B976,82000.0,82000.0,37.0,37.0,18K Pink Gold,Gold,other,other,True,True,True
+Vacheron Constantin,83570/000R-9915,45000.0,45000.0,36.0,36.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,8006F/000G-B942,112000.0,112000.0,37.0,37.0,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,8016F/127G-B499,,1250000.0,37.0,37.0,White Gold,White Gold,other,other,False,True,True
+Vacheron Constantin,8006F/000G-B499,82000.0,82000.0,37.0,37.0,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,7006T/000G-B913,82000.0,82000.0,37.5,37.5,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,4010U/000G-B330,49400.0,49400.0,42.5,42.5,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,83570/000G-9916,45000.0,45000.0,36.0,36.0,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,4000V/210A-B911,43800.0,43800.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,8005F/120A-B497,28900.0,28900.0,37.0,37.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,4200H/222J-B935,74000.0,74000.0,37.0,37.0,Yellow Gold,Yellow Gold,other,other,True,True,True
+Vacheron Constantin,4600E/000R-B576,25500.0,25500.0,40.0,40.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,81515/000R-9892,36200.0,36200.0,,28.4,18K Pink Gold,Pink Gold,other,other,True,False,True
+Vacheron Constantin,85180/000R-B515,31800.0,31800.0,40.0,40.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,1225V/200R-H015,51500.0,51500.0,33.0,33.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,82230/000R-9963,28100.0,28100.0,4236.7,36.7,18K Pink Gold,Pink Gold,other,other,True,False,True
+Vacheron Constantin,85180/000R-9248,31800.0,31800.0,40.0,40.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,87172/000R-9302,30200.0,30200.0,38.0,38.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,1100S/000R-B430,33400.0,33400.0,,36.5,18K Pink Gold,Pink Gold,other,other,True,False,True
+Vacheron Constantin,82172/000R-9382,23700.0,23700.0,38.0,38.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,1225V/000R-B592,32900.0,32900.0,33.0,33.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,4110U/000R-B905,28900.0,28900.0,36.5,36.5,18K Pink Gold,Rose Gold,other,other,True,True,True
+Vacheron Constantin,82035/000R-9359,40400.0,40400.0,4040.0,40.0,18K Pink Gold,Pink Gold,other,other,True,False,True
+Vacheron Constantin,4520V/210R-B705,60500.0,60500.0,41.0,41.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,85515/000R-B644,40000.0,40000.0,36.5,36.5,18K Pink Gold,"Pink Gold,Red Gold",other,other,True,True,True
+Vacheron Constantin,4600E/000R-B441,25500.0,25500.0,40.0,40.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,81015/000R-B282,21900.0,21900.0,,,18K Pink Gold,"Pink Gold,Red Gold",other,other,True,False,True
+Vacheron Constantin,4115U/000R-B907,36500.0,36500.0,36.5,36.5,18K Pink Gold,Rose Gold,other,other,True,True,True
+Vacheron Constantin,1100S/000G-B734,33400.0,33400.0,36.5,36.5,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,85180/000G-9230,31800.0,31800.0,40.0,40.0,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,82035/000G-B735,40400.0,40400.0,4040.0,40.0,White Gold,White Gold,other,other,True,False,True
+Vacheron Constantin,4115U/000G-B908,36500.0,36500.0,36.5,36.5,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,4110U/000G-B906,28900.0,28900.0,36.5,36.5,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,1110U/000G-B086,24500.0,24500.0,42.0,42.0,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,81515/000G-9891,36200.0,36200.0,,28.4,White Gold,White Gold,other,other,True,False,True
+Vacheron Constantin,4600E/000A-B487,12700.0,12700.0,40.0,40.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,4600E/110A-B487,15400.0,15400.0,40.0,40.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,4520V/210A-B128,25000.0,25000.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,4520V/210A-B483,25000.0,25000.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,4520V/210A-B126,25000.0,25000.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,4600E/000A-B442,12700.0,12700.0,40.0,40.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,1225V/200A-B590,16500.0,16500.0,33.0,33.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Vacheron Constantin,86073/000P-B932,,131000.0,40.0,40.0,950 Platinum,,other,,False,True,False
+Vacheron Constantin,86073/000R-B933,117000.0,117000.0,40.0,40.0,18K Pink Gold,"Pink Gold,Red Gold",other,other,True,True,True
+Vacheron Constantin,25558/000R-B156,19100.0,19100.0,30.0,30.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,1205F/000R-B622,21400.0,21400.0,30.0,30.0,18K Pink Gold,"Pink Gold,Red Gold",other,other,True,True,True
+Vacheron Constantin,81180/000R-9159,22100.0,22100.0,40.0,40.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,81180/000R-B518,22100.0,22100.0,40.0,40.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,1405T/000R-B636,29600.0,29600.0,33.0,33.0,18K Pink Gold,"Pink Gold,Red Gold",other,other,True,True,True
+Vacheron Constantin,1405T/000R-H009,29600.0,29600.0,33.0,33.0,18K Pink Gold,Pink Gold,other,other,True,True,True
+Vacheron Constantin,37640/000G-B659,63000.0,63000.0,,,White Gold,White Gold,other,other,True,False,True
+Vacheron Constantin,37640/000G-B030,63000.0,63000.0,,26.5036,White Gold,White Gold,other,other,True,False,True
+Vacheron Constantin,37640/000G-B021,74000.0,74000.0,,26.5036,White Gold,White Gold,other,other,True,False,True
+Vacheron Constantin,25558/000G-B157,19100.0,19100.0,30.0,30.0,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,81590/000G-9848,29600.0,29600.0,33.0,33.0,White Gold,White Gold,other,other,True,True,True
+Vacheron Constantin,81180/000G-9117,22100.0,22100.0,40.0,40.0,White Gold,White Gold,other,other,True,True,True
+Zenith,49-9308-3620-56-i001,15500.0,15500.0,41.0,41.0,Black Ceramic,Ceramic,other,other,True,True,True
+Zenith,03-9301-3620-18-i001,10300.0,10300.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3401-3610-21-m3200,13500.0,13500.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-9301-3630-49-i001,62300.0,62300.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,97-t384-4061-21-m384,9800.0,9800.0,37.0,37.0,Microblasted Titanium,Titanium,other,other,True,True,True
+Zenith,97-t384-400-57-m384,9800.0,9800.0,37.0,37.0,Microblasted Titanium,Titanium,other,other,True,True,True
+Zenith,03-9500-3600-02-i001,13400.0,13400.0,42.0,42.0,Stainless Steel,"Grey,Rose Gold",other,other,True,True,True
+Zenith,03-9302-3620-75-i001,9800.0,9800.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-9500-3600-51-i001,13400.0,13400.0,42.0,42.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,49-9301-3620-79-i001,17500.0,17500.0,41.0,41.0,White Ceramic,Ceramic,other,other,True,True,True
+Zenith,03-9500-3600-01-i001,13400.0,13400.0,42.0,42.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-9500-3600-21-i001,13400.0,13400.0,42.0,42.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-a3648-670-21-m3648,7700.0,7700.0,37.0,37.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,95-9601-3620-51-i301,11300.0,11300.0,42.5,42.5,Brushed Titanium,Ceramic,other,other,True,True,True
+Zenith,95-9600-3620-21-i300,11300.0,11300.0,42.5,42.5,Brushed Titanium,"Ceramic,Titanium",other,other,True,True,True
+Zenith,03-9300-3630-51-i001,57100.0,57100.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,49-9300-3630-21-i001,67400.0,67400.0,41.0,41.0,Black Ceramic,Ceramic,other,other,True,True,True
+Zenith,03-3100-3600-69-r951,10800.0,10800.0,41.0,41.0,Stainless Steel With Black Ceramic Bezel,Stainless Steel,other,other,True,True,True
+Zenith,03-3114-3600-51-r950,10300.0,10300.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3100-3600-21-r951,10800.0,10800.0,41.0,41.0,Stainless Steel With Black Ceramic Bezel,Stainless Steel,other,other,True,True,True
+Zenith,03-3103-3600-69-r950,11800.0,11800.0,41.0,41.0,Stainless Steel With Tricolor Ceramic Bezel,Stainless Steel,other,other,True,True,True
+Zenith,18-3101-3600-69-r953,24800.0,24800.0,41.0,41.0,18-Ct Rose Gold With Gold Bezel,Rose Gold,other,other,True,True,True
+Zenith,18-3101-3600-21-r951,24800.0,24800.0,41.0,41.0,18-Ct Rose Gold With Gold Bezel,Rose Gold,other,other,True,True,True
+Zenith,51-3100-3600-69-r950,16500.0,16500.0,41.0,41.0,Stainless Steel & 18-Carat Rose Gold,Stainless Steel,other,other,True,True,True
+Zenith,18-3100-3600-69-r951,23000.0,23000.0,41.0,41.0,18-Ct Rose Gold With Black Ceramic Bezel,Rose Gold,other,other,True,True,True
+Zenith,95-3100-3600-39-m3100,11800.0,11800.0,41.0,41.0,Titanium,Titanium,other,other,True,True,True
+Zenith,95-3100-3600-39-r951,11300.0,11300.0,41.0,41.0,Nan,Titanium,other,other,True,True,True
+Zenith,03-3400-3610-39-m3200,13900.0,13900.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3119-3600-56-m3100,11300.0,11300.0,41.0,41.0,Stainless Steel,"Stainless Steel,Ceramic",other,other,True,True,True
+Zenith,03-3400-3610-40-c912,13400.0,13400.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3119-3600-56-r952,10800.0,10800.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3400-3610-38-m3200,13900.0,13900.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,22-3100-3600-69-m3100,98600.0,98600.0,41.0,41.0,18-Ct Rose Gold With Gold Bezel,Rose Gold,other,other,True,True,True
+Zenith,03-3400-3610-40-m3200,13900.0,13900.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3400-3610-39-c910,13400.0,13400.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3400-3610-38-c911,13400.0,13400.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-4000-3652-51-i003,11800.0,11800.0,42.5,42.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,97-9300-3620-79-i001,12000.0,12000.0,41.0,41.0,Microblasted Titanium,Titanium,other,other,True,True,True
+Zenith,03-4000-3620-51-i003,7800.0,7800.0,40.0,40.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3109-3600-18-m3100,11800.0,11800.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,49-4000-3652-21-i001,13900.0,13900.0,42.5,42.5,Black Microblasted Ceramic,Ceramic,other,other,True,True,True
+Zenith,21-chroma-ii-49-9013-9004-21-r952,15600.0,,44.0,,Black Ceramic,,other,,False,False,False
+Zenith,03-9102-9004-90-i001,26900.0,26900.0,45.0,45.0,Polished Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3114-3600-51-m3100,10800.0,10800.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,06-9100-9004-21-i001,31000.0,31000.0,45.0,45.0,Microblasted Steel & Yellow Gold,Stainless Steel,other,other,True,True,True
+Zenith,16-9300-3620-51-i001,27900.0,27900.0,41.0,41.0,Stainless Steel With Blue Baguette Sapphires-Set Bezel,Stainless Steel,other,other,True,True,True
+Zenith,03-3200-3600-22-m3200,10300.0,10300.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3100-3600-69-m3100,11300.0,11300.0,41.0,41.0,Stainless Steel With Black Ceramic Bezel,"Ceramic,Stainless Steel",other,other,True,True,True
+Zenith,21-chroma-ii-49-9014-9004-01-r953,15600.0,,44.0,,Matte White Ceramic,,other,,False,False,False
+Zenith,03-9300-3620-15-i001,9200.0,9200.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-9400-670-15-i001,8700.0,8700.0,36.0,36.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3103-3600-69-m3100,13200.0,13200.0,41.0,41.0,Stainless Steel With Tricolor Ceramic Bezel,Stainless Steel,other,other,True,True,True
+Zenith,03-9400-670-18-i001,8700.0,8700.0,36.0,36.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3200-3600-34-c869,9800.0,9800.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-9300-3620-51-i001,9200.0,9200.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,3690-03-a3642-670-3690-m3642,7200.0,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,03-3117-3600-56-m3100,12800.0,12800.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-4000-3652-21-i001,11800.0,11800.0,42.5,42.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-9300-3620-80-i001,11300.0,11300.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3200-3600-51-m3200,10300.0,10300.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-9300-3620-21-i001,9200.0,9200.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-9400-670-51-i001,8700.0,8700.0,36.0,36.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-9400-670-61-i001,8700.0,8700.0,36.0,36.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,49-9300-3620-78-i001,17500.0,17500.0,41.0,41.0,Black Ceramic,Ceramic,other,other,True,True,True
+Zenith,03-3300-3604-51-m3300,10300.0,10300.0,39.5,39.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-4000-3620-21-i001,7800.0,7800.0,40.0,40.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3200-3600-22-c908,9800.0,9800.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,16-9400-670-51-i001,12300.0,12300.0,36.0,36.0,Stainless Steel With Diamond-Set Bezel,Stainless Steel,other,other,True,True,True
+Zenith,3691-03-a3642-670-3691-m3642,7200.0,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,49-9300-3620-21-i001,15500.0,15500.0,41.0,41.0,Black Ceramic,Ceramic,other,other,True,True,True
+Zenith,97-a3642-670-21-m3642,7700.0,7700.0,37.0,37.0,Microblasted Titanium,Titanium,other,other,True,True,True
+Zenith,03-9300-3620-79-i001,11300.0,11300.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3100-3600-21-m3100,11300.0,11300.0,41.0,41.0,Stainless Steel With Black Ceramic Bezel,"Ceramic,Stainless Steel",other,other,True,True,True
+Zenith,49-4000-3620-21-i001,9900.0,9900.0,40.0,40.0,Black Microblasted Ceramic,Ceramic,other,other,True,True,True
+Zenith,03-9300-3620-78-i001,11300.0,11300.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-9300-3620-02-i001,9200.0,9200.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3300-3604-69-m3300,10300.0,10300.0,39.5,39.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,10-9101-9004-60-i310,31000.0,31000.0,45.0,45.0,Full Carbon,,other,,True,True,False
+Zenith,03-9300-3620-01-i001,9200.0,9200.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,10-9100-9004-22-i200,25800.0,25800.0,45.0,45.0,Carbon & Microblasted Titanium,"Titanium,Forged Carbon",other,other,True,True,True
+Zenith,49-9002-670-1-02-r796,11000.0,11000.0,41.0,41.0,White Ceramic,Ceramic,other,other,True,True,True
+Zenith,49-9000-670-1-22-r797,10000.0,10000.0,41.0,41.0,Black Ceramic,Ceramic,other,other,True,True,True
+Zenith,95-9201-9004-25-i001,26900.0,26900.0,45.0,45.0,Brushed Titanium & Chalcedony,Titanium,other,other,True,True,True
+Zenith,12-9100-9020-78-i200,82000.0,82000.0,45.0,45.0,Black Carbon & 18-Ct Rose Gold,,other,,True,True,False
+Zenith,10-9100-9004-2-24-i301,27100.0,27100.0,45.0,45.0,Carbon & Microblasted Titanium,"Titanium,Carbon",other,other,True,True,True
+Zenith,95-9100-9020-78-i001,71600.0,71600.0,45.0,45.0,Brushed Titanium,Titanium,other,other,True,True,True
+Zenith,16-9400-670-15-i001,12300.0,12300.0,36.0,36.0,Stainless Steel With Diamond-Set Bezel,Stainless Steel,other,other,True,True,True
+Zenith,16-9400-670-18-i001,12300.0,12300.0,36.0,36.0,Stainless Steel With Diamond-Set Bezel,Stainless Steel,other,other,True,True,True
+Zenith,10-9100-9004-5-27-i307,27100.0,27100.0,45.0,45.0,Carbon & Microblasted Titanium,,other,,True,True,False
+Zenith,16-9400-670-61-i001,12300.0,12300.0,36.0,36.0,Stainless Steel With Diamond-Set Bezel,Stainless Steel,other,other,True,True,True
+Zenith,18-3300-3604-69-c922,21900.0,21900.0,39.5,39.5,18-Ct Rose Gold,Rose Gold,other,other,True,True,True
+Zenith,10-9100-9004-4-26-i305,27100.0,27100.0,45.0,45.0,Carbon & Microblasted Titanium,,other,,True,True,False
+Zenith,03-3200-3600-51-c902,9800.0,9800.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,18-3101-3600-69-m3100,39300.0,39300.0,41.0,41.0,18-Ct Rose Gold With Gold Bezel,Rose Gold,other,other,True,True,True
+Zenith,51-3100-3600-69-m3100,17500.0,17500.0,41.0,41.0,Stainless Steel & 18-Carat Rose Gold,"Rose Gold,Stainless Steel",other,other,True,True,True
+Zenith,03-3300-3604-21-c822,9800.0,9800.0,39.5,39.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3300-3604-21-m3300,10300.0,10300.0,39.5,39.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-3300-3604-69-c823,9800.0,9800.0,39.5,39.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,03-9100-9004-49-i210,30200.0,30200.0,45.0,45.0,Polished Stainless Steel & Blue Yas,Stainless Steel,other,other,True,True,True
+Zenith,788-ic-925,,,38.0,,Stainless Steel,,other,,False,False,False
+Zenith,01-0140-415-ic-926,,,38.0,,Stainless Steel,,other,,False,False,False
+Zenith,18-3101-3600-21-m3100,39300.0,39300.0,41.0,41.0,18-Ct Rose Gold With Gold Bezel,Rose Gold,other,other,True,True,True
+Zenith,01-0040-418-b-ic-927,,,38.0,,Stainless Steel,,other,,False,False,False
+Zenith,10-9100-9004-1-23-i303,27100.0,27100.0,45.0,45.0,Carbon & Microblasted Titanium,"Titanium,Forged Carbon",other,other,True,True,True
+Zenith,3642-03-a3642-670-75-m3642,7200.0,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,3818-airweight-cover-girl-95-a3818-400-51-m3818,10400.0,,37.0,,Brushed Titanium,,other,,False,False,False
+Zenith,16-9200-670-33-mi001,11800.0,11800.0,36.0,36.0,Stainless Steel With Diamond-Set Bezel,Stainless Steel,other,other,True,True,True
+Zenith,16-9200-670-34-mi001,11800.0,11800.0,36.0,36.0,Stainless Steel With Diamond-Set Bezel,Stainless Steel,other,other,True,True,True
+Zenith,384-lupin-the-third-final-edition-95-l384-400-50-m384,10000.0,,37.0,,Brushed Titanium,,other,,False,False,False
+Zenith,04-9000-8812-00-r920,166000.0,166000.0,46.0,44.0,Sapphire,,other,,True,False,False
+Zenith,97-g383-400-38-c881,10000.0,10000.0,38.0,38.0,Microblasted Titanium,Titanium Gold,other,other,True,True,True
+Zenith,04-9000-9020-00-r920,186800.0,186800.0,46.0,44.0,Sapphire,,other,,True,False,False
+Zenith,97-9000-670-26-m9000,9000.0,9000.0,41.0,41.0,Microblasted Titanium,Titanium,other,other,True,True,True
+Zenith,381-ic-907,,,38.0,,18-Ct Yellow Gold,,other,,False,False,False
+Zenith,382-ic-909,,,38.0,,18-Ct Yellow Gold,,other,,False,False,False
+Zenith,384-ic-908,,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,581-ic-840,,,37.0,,18-Ct Yellow Gold,,other,,False,False,False
+Zenith,582-ic-857,,,37.0,,18-Ct Yellow Gold,,other,,False,False,False
+Zenith,386-ic-858,,,38.0,,Stainless Steel,,other,,False,False,False
+Zenith,386-ic-839,,,38.0,,Stainless Steel,,other,,False,False,False
+Zenith,95-9200-9004-77-i001,22000.0,22000.0,45.0,45.0,Brushed Titanium & Falcon'S Eye Gemstone,Titanium,other,other,True,True,True
+Zenith,03-3200-3600-69-c902,9800.0,9800.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,97-t384-400-57-c856,9200.0,9200.0,37.0,37.0,Microblasted Titanium,Titanium Gold,other,other,True,True,True
+Zenith,3817-03-a384-400-3817-m3817,9200.0,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,97-9100-9004-02-i001,18600.0,18600.0,45.0,45.0,Microblasted Titanium,Titanium,other,other,True,True,True
+Zenith,95-9100-9004-01-i001,18600.0,18600.0,45.0,45.0,Brushed Titanium,Titanium,other,other,True,True,True
+Zenith,03-3200-3600-21-c903,9800.0,9800.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,18-3100-3600-69-c920,23000.0,23000.0,41.0,41.0,18-Ct Rose Gold With Black Ceramic Bezel,"Ceramic,Rose Gold",other,other,True,True,True
+Zenith,3817-03-a384-400-3817-c855,8700.0,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,87-9100-9004-03-i001,22700.0,22700.0,45.0,45.0,Microblasted Titanium & Rose Gold,"Titanium,Rose Gold",other,other,True,True,True
+Zenith,21-ultrablue-97-9001-9004-81-r946,14000.0,,44.0,,Microblasted Titanium,,other,,False,False,False
+Zenith,10-9001-670-80-m9000,20100.0,20100.0,41.0,41.0,Black Carbon,"Titanium,Carbon",other,other,True,True,True
+Zenith,21-black-white-edition-49-9007-9004-11-r923,14500.0,,44.0,,Black Matte Ceramic With White Ceramic Bezel,,other,,False,False,False
+Zenith,03-3100-692-01-c922,7200.0,7200.0,40.5,40.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,21-ultraviolet-97-9001-9004-80-r922,14000.0,,44.0,,Microblasted Titanium,,other,,False,False,False
+Zenith,97-t384-4061-21-c822,9200.0,9200.0,37.0,37.0,Microblasted Titanium,Titanium,other,other,True,True,True
+Zenith,21-patrick-mouratoglou-10-9000-9004-m99-r939,19100.0,,44.0,,Black Carbon,,other,,False,False,False
+Zenith,384-03-a384-400-21-m384,9200.0,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,21-carl-cox-10-9001-9004-99-r941,19700.0,,44.0,,Black Carbon,,other,,False,False,False
+Zenith,03-3100-670-02-c922,6100.0,6100.0,40.5,40.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,21-10-9000-9004-96-r921,19600.0,,44.0,,Black Carbon,,other,,False,False,False
+Zenith,18-3100-692-01-c922,15500.0,15500.0,40.5,40.5,18-Ct Rose Gold,Rose Gold,other,other,True,True,True
+Zenith,22-3200-692-01-c832,17500.0,17500.0,36.0,36.0,Rose Gold With Diamond-Set Bezel,Rose Gold,other,other,True,True,True
+Zenith,16-3200-670-02-c832,8200.0,8200.0,36.0,40.5,Stainless Steel With Diamond-Set Bezel,Stainless Steel,other,other,True,False,True
+Zenith,21-18-9000-9004-71-m9000,48300.0,,44.0,,18-Ct Rose Gold,,other,,False,False,False
+Zenith,95-9000-8812-78-m9000,103700.0,103700.0,44.0,44.0,Brushed Titanium,Titanium,other,other,True,True,True
+Zenith,40-9000-9020-78-r582,155500.0,155500.0,46.0,44.0,Platinum 950,,other,,True,False,False
+Zenith,95-9000-8812-78-r584,102600.0,102600.0,44.0,44.0,Brushed Titanium,Titanium,other,other,True,True,True
+Zenith,40-9000-4805-75-r582,106600.0,106600.0,45.0,44.0,Platinum 950,,other,,True,False,False
+Zenith,18-9000-8812-79-m9000,134800.0,134800.0,44.0,44.0,18-Ct Rose Gold,Rose Gold,other,other,True,True,True
+Zenith,18-9000-8812-79-r584,119200.0,119200.0,44.0,44.0,18-Ct Rose Gold,Rose Gold,other,other,True,True,True
+Zenith,384-03-a384-400-21-c815,8700.0,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,18-3100-670-01-c920,14400.0,14400.0,40.5,40.5,18-Ct Rose Gold,Rose Gold,other,other,True,True,True
+Zenith,22-3200-670-01-c831,16500.0,16500.0,36.0,40.5,Rose Gold With Diamond-Set Bezel,Rose Gold,other,other,True,False,True
+Zenith,03-3100-692-03-c923,7200.0,7200.0,40.5,40.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,16-3200-692-03-c833,9200.0,9200.0,36.0,36.0,Stainless Steel With Diamond-Set Bezel,Stainless Steel,other,other,True,True,True
+Zenith,16-3200-670-01-c831,8200.0,8200.0,36.0,40.5,Stainless Steel With Diamond-Set Bezel,Stainless Steel,other,other,True,False,True
+Zenith,16-3200-692-01-c832,9200.0,9200.0,36.0,36.0,Stainless Steel With Diamond-Set Bezel,Stainless Steel,other,other,True,True,True
+Zenith,03-3100-670-01-c922,6100.0,6100.0,40.5,40.5,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,385-03-a384-400-385-c855,8700.0,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,385-03-a384-400-385-m385,9200.0,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,384-ic-833,,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,385-ic-834,,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,386-ic-835,,,,,Nan,,other,,False,False,False
+Zenith,384-ic-837,,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,385-ic-838,,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,3818-ic-836,,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,381-ic-847,,,38.0,,18-Ct Yellow Gold,,other,,False,False,False
+Zenith,03-3200-3600-69-m3200,10300.0,10300.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,18-3200-3600-69-c901,21900.0,21900.0,38.0,38.0,18-Ct Rose Gold,Rose Gold,other,other,True,True,True
+Zenith,03-3200-3600-21-m3200,10300.0,10300.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Zenith,386-ic-848,,,38.0,,Stainless Steel,,other,,False,False,False
+Zenith,277-ic-849,,,40.5,,Stainless Steel,,other,,False,False,False
+Zenith,850,,,40.0,,Stainless Steel,,other,,False,False,False
+Zenith,384-ic-928,40300.0,,37.0,,Stainless Steel,,other,,False,False,False
+Zenith,01-0230-415-ic-929,25900.0,,,,Stainless Steel,,other,,False,False,False
+Zenith,3821-ic-930,16100.0,,,,Stainless Steel,,other,,False,False,False
+Zenith,931,20100.0,,42.5,,Stainless Steel,,other,,False,False,False
+Zenith,49-4001-3652-63-i001,15500.0,15500.0,42.0,42.5,Khaki Green Ceramic,Ceramic,other,other,True,False,True
+Zenith,49-4001-3620-63-i001,11300.0,11300.0,40.0,40.0,Khaki Green Ceramic,Ceramic,other,other,True,True,True
+Piaget,G0A41208,68500.0,68500.0,38.0,38.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A41209,68500.0,68500.0,38.0,38.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A41212,48500.0,48500.0,32.0,32.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A41213,46200.0,46200.0,32.0,32.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A42213,35400.0,35400.0,26.0,26.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A41002,14500.0,14500.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Piaget,G0A41003,14500.0,14500.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Piaget,G0A41006,20400.0,20400.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Piaget,G0A43001,12900.0,12900.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Piaget,G0A43002,19300.0,19300.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Piaget,G0A43010,31900.0,31900.0,42.0,42.0,Rose Gold,Rose Gold,other,other,True,True,True
+Piaget,G0A43011,40600.0,40600.0,42.0,42.0,Rose Gold,Rose Gold,other,other,True,True,True
+Piaget,G0A43080,5600.0,5600.0,29.0,29.0,"Steel, Diamond","Setting,Diamonds",other,other,True,True,True
+Piaget,G0A43090,6150.0,6150.0,34.0,34.0,"Steel, Diamond","Setting,Diamonds",other,other,True,True,True
+Piaget,G0A37041,57000.0,57000.0,26.0,26.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A37043,69500.0,69500.0,26.0,26.0,"White Gold, Diamond, Blue Sapphire",White Gold,other,other,True,True,True
+Piaget,G0A37047,87500.0,87500.0,34.0,34.0,"White Gold, Diamond, Blue Sapphire",White Gold,other,other,True,True,True
+Piaget,G0A40211,65000.0,65000.0,22.0,2722.0,"White Gold, Diamond",White Gold,other,other,True,False,True
+Piaget,G0A40212,62500.0,62500.0,22.0,27.0,"Rose Gold, Diamond",Rose Gold,other,other,True,False,True
+Piaget,G0A32018,83500.0,83500.0,42.0,42.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A32020,82500.0,82500.0,42.0,42.0,"Rose Gold, Diamond","White,Rose Gold",other,other,True,True,True
+Piaget,G0A39193,62500.0,62500.0,38.0,2738.0,"White Gold, Diamond",White Gold,other,other,True,False,True
+Piaget,G0A44010,49900.0,49900.0,42.0,42.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A44011,78000.0,78000.0,42.0,42.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A44212,37100.0,37100.0,26.0,26.0,"White Gold, Diamond","Setting,Diamonds",other,other,True,True,True
+Piaget,G0A44298,37100.0,37100.0,29.0,29.0,"White Gold, Diamond","Setting,Diamonds",other,other,True,True,True
+Piaget,G0A44299,40600.0,40600.0,34.0,34.0,"White Gold, Diamond","Setting,Diamonds",other,other,True,True,True
+Piaget,G0A44081,10300.0,10300.0,29.0,29.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A44091,11900.0,11900.0,34.0,34.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A44292,20400.0,20400.0,34.0,34.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A44532,15700.0,15700.0,24.0,24.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A44534,14500.0,14500.0,24.0,24.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A43150,25600.0,25600.0,26.0,26.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A43151,24400.0,24400.0,26.0,26.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A45162,35300.0,35300.0,32.0,32.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A45402,27300.0,27300.0,40.0,40.0,White Gold,White Gold,other,other,True,True,True
+Piaget,G0A45082,24600.0,24600.0,29.0,29.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A45363,64500.0,64500.0,32.0,32.0,"White Gold, Diamond, Blue Sapphire",White Gold,other,other,True,True,True
+Piaget,G0A45050,19800.0,19800.0,38.0,38.0,Rose Gold,Rose Gold,other,other,True,True,True
+Piaget,G0A45152,25200.0,25200.0,26.0,26.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A45400,26100.0,26100.0,40.0,40.0,Rose Gold,Rose Gold,other,other,True,True,True
+Piaget,G0A45403,37100.0,37100.0,40.0,40.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A45401,36000.0,36000.0,40.0,40.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A45180,60500.0,60500.0,32.0,32.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A45406,27500.0,27500.0,35.0,35.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A45405,20300.0,20300.0,35.0,35.0,Rose Gold,Rose Gold,other,other,True,True,True
+Piaget,G0A45004,30200.0,30200.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Piaget,G0A45001,30200.0,30200.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Piaget,G0A45121,46400.0,46400.0,41.0,41.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A45062,12800.0,12800.0,29.0,29.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A45072,15100.0,15100.0,34.0,34.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A45123,37100.0,37100.0,41.0,41.0,White Gold,White Gold,other,other,True,True,True
+Piaget,G0A45037,81500.0,81500.0,18.0,18.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A46151,24500.0,24500.0,26.0,26.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A46182,72500.0,72500.0,32.0,32.0,"Rose Gold, Diamond, Pink Sapphire",Rose Gold,other,other,True,True,True
+Piaget,G0A46180,74000.0,74000.0,32.0,32.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A46009,51000.0,51000.0,42.0,42.0,Rose Gold,Rose Gold,other,other,True,True,True
+Piaget,G0A46010,70000.0,70000.0,42.0,42.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A46019,23100.0,23100.0,36.0,36.0,"Steel, Diamond",Stainless Steel,other,other,True,True,True
+Piaget,G0A46020,53500.0,53500.0,36.0,36.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A46023,39700.0,39700.0,36.0,36.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A46024,68000.0,68000.0,36.0,36.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A46018,15500.0,15500.0,36.0,36.0,"Steel, Diamond",Stainless Steel,other,other,True,True,True
+Piaget,G0A46540,67500.0,67500.0,38.0,38.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A47151,17300.0,17300.0,26.0,26.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A47008,30200.0,30200.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Piaget,G0A47162,56500.0,56500.0,32.0,32.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A47104,39100.0,39100.0,36.0,36.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A47161,28800.0,28800.0,32.0,32.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A47014,12900.0,12900.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Piaget,G0A47010,31900.0,31900.0,42.0,42.0,Rose Gold,Rose Gold,other,other,True,True,True
+Piaget,G0A47181,72500.0,72500.0,32.0,32.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A47124,45300.0,45300.0,41.0,41.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A47105,58000.0,58000.0,36.0,36.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A47027,23100.0,23100.0,36.0,36.0,"Steel, Diamond",Stainless Steel,other,other,True,True,True
+Piaget,G0A46086,39500.0,39500.0,29.0,29.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A46063,26500.0,26500.0,29.0,29.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A46073,30200.0,30200.0,34.0,34.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A47540,67500.0,67500.0,38.0,38.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A47017,13400.0,13400.0,36.0,36.0,Steel,Stainless Steel,other,other,True,True,True
+Piaget,G0A48005,60000.0,60000.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Piaget,G0A48080,8350.0,8350.0,29.0,29.0,"Steel, Diamond",Stainless Steel,other,other,True,True,True
+Piaget,G0A48090,9550.0,9550.0,34.0,34.0,"Steel, Diamond",Stainless Steel,other,other,True,True,True
+Piaget,G0A48006,77500.0,77500.0,42.0,42.0,Rose Gold,Rose Gold,other,other,True,True,True
+Piaget,G0A48007,,,42.0,42.0,"White Gold, Sapphire",White Gold,other,other,False,True,True
+Piaget,G0A48213,52500.0,52500.0,32.0,32.0,"Rose Gold, Diamond","Diamonds,Brilliant Cut",other,other,True,True,True
+Piaget,G0A48212,54000.0,54000.0,32.0,32.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A48360,42100.0,42100.0,32.0,32.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A48361,41000.0,41000.0,32.0,32.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A48362,56000.0,56000.0,32.0,32.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A48390,7650.0,7650.0,34.0,34.0,Diamond,Stainless Steel,other,other,True,True,True
+Piaget,G0A48214,54500.0,54500.0,32.0,32.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A48125,36000.0,36000.0,41.0,41.0,Rose Gold,Rose Gold,other,other,True,True,True
+Piaget,G0A48022,12900.0,12900.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Piaget,G0A48026,29000.0,29000.0,36.0,36.0,"Steel, Rose Gold, Diamond","Stainless Steel,Rose Gold",other,other,True,True,True
+Piaget,G0A48024,19300.0,19300.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Piaget,G0A48168,75000.0,75000.0,26.0,26.0,"Rose Gold, Diamond",Gold,other,other,True,True,True
+Piaget,G0A49150,73000.0,,38.0,38.0,Nan,Gold,other,other,False,True,True
+Piaget,G0A48380,7000.0,7000.0,29.0,29.0,Diamond,Stainless Steel,other,other,True,True,True
+Piaget,G0A49028,21600.0,21600.0,36.0,36.0,"Steel, Diamond",Stainless Steel,other,other,True,True,True
+Piaget,G0A48021,31900.0,31900.0,42.0,42.0,Rose Gold,Rose Gold,other,other,True,True,True
+Piaget,G0A49024,20400.0,20400.0,42.0,42.4,Steel,Stainless Steel,other,other,True,False,True
+Piaget,G0A49213,52500.0,52500.0,32.0,32.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A49360,42900.0,42900.0,32.0,32.0,"White Gold, Diamond",White Gold,other,other,True,True,True
+Piaget,G0A49022,14500.0,14500.0,42.0,42.0,Steel,Stainless Steel,other,other,True,True,True
+Piaget,G0A49029,53500.0,53500.0,36.0,36.0,"Rose Gold, Diamond",Rose Gold,other,other,True,True,True
+Piaget,G0A49011,42900.0,42900.0,42.0,42.0,Nan,"Titanium,Ceramic",other,other,True,True,True
+Piaget,G0A50028,15500.0,15500.0,36.0,36.0,"Steel, Diamond",Stainless Steel,other,other,True,True,True
+Audemars Piguet,26398BC.OO.D002CR.02,,14732000.0,42.0,42.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,26398BC.OO.D002CR.04,,13351000.0,42.0,42.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,26395NR.OO.D002KB.01,,2993000.0,41.0,41.0,Black Ceramic,"Ceramic,Rose Gold",other,other,False,True,True
+Audemars Piguet,26399NB.OO.D009KB.01,,,41.0,41.0,Black Ceramic,Ceramic,other,other,False,True,True
+Audemars Piguet,26396NB.OO.D002KB.01,,1351000.0,41.0,41.0,Black Ceramic,"White Gold,Ceramic",other,other,False,True,True
+Audemars Piguet,26396NR.OO.D002KB.01,,1351000.0,41.0,41.0,Black Ceramic,"Ceramic,Rose Gold",other,other,False,True,True
+Audemars Piguet,26394BC.OO.D027KB.01,109300.0,109300.0,41.0,41.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,15212NB.OO.A002KB.01-AB,59600.0,59600.0,41.0,41.0,Black Ceramic,Ceramic,other,other,True,True,True
+Audemars Piguet,26393BC.OO.A002KB.01,49700.0,49700.0,41.0,41.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,26393BC.OO.A002KB.02,85600.0,85600.0,41.0,41.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,26393CR.OO.A002KB.01,49700.0,49700.0,41.0,41.0,18-Carat Pink Gold,"White Gold,Rose Gold",other,other,True,True,True
+Audemars Piguet,26393CR.OO.A008KB.01,49700.0,49700.0,41.0,41.0,18-Carat Pink Gold,White Gold,other,other,True,True,True
+Audemars Piguet,26393NB.OO.A002KB.01,49700.0,49700.0,41.0,41.0,Black Ceramic,"Ceramic,White Gold",other,other,True,True,True
+Audemars Piguet,26393NR.OO.A002KB.01,49700.0,49700.0,41.0,41.0,Black Ceramic,"Pink Gold,Ceramic",other,other,True,True,True
+Audemars Piguet,26393NR.OO.A002KB.02,49700.0,49700.0,41.0,41.0,Black Ceramic,"Ceramic,Rose Gold",other,other,True,True,True
+Audemars Piguet,26393OR.OO.A056KB.01,49700.0,49700.0,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,26393OR.OO.A348KB.01,49700.0,49700.0,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,26393QT.OO.A064KB.01,38500.0,38500.0,41.0,41.0,Black Ceramic,"Ceramic,Stainless Steel",other,other,True,True,True
+Audemars Piguet,26393ST.OO.A056KB.01,36000.0,36000.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,26393ST.OO.A348KB.01,36000.0,36000.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15210OR.OO.A002KB.02,35400.0,35400.0,41.0,41.0,18-Carat Pink Gold,Pink Gold,other,other,True,True,True
+Audemars Piguet,15210OR.OO.A002KB.03,35400.0,35400.0,41.0,41.0,18-Carat Pink Gold,Pink Gold,other,other,True,True,True
+Audemars Piguet,15210OR.OO.A056KB.01,35400.0,35400.0,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,15210OR.OO.A348KB.01,35400.0,35400.0,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,15210QT.OO.A064KB.01,28600.0,28600.0,41.0,41.0,Black Ceramic,"Ceramic,Stainless Steel",other,other,True,True,True
+Audemars Piguet,15210ST.OO.A056KB.01,26100.0,26100.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15210ST.OO.A348KB.01,26100.0,26100.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15210BC.OO.A002KB.02,50900.0,50900.0,41.0,41.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,15210BC.ZZ.D128CR.01,,824000.0,41.0,41.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,77410OR.OO.A342CR.01,34200.0,34200.0,38.0,38.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,77410OR.OO.A344CR.01,34200.0,34200.0,38.0,38.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,77410OR.OO.A623CR.01,34200.0,34200.0,38.0,38.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,77410OR.OO.A825CR.01,34200.0,34200.0,38.0,38.0,18-Carat Pink Gold,Pink Gold,other,other,True,True,True
+Audemars Piguet,77410BC.ZZ.D132CR.01,103700.0,103700.0,38.0,38.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,77410OR.ZZ.D343CR.01,103700.0,103700.0,38.0,38.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,26605CB.OO.1248CB.01,,7309000.0,44.0,44.0,White Ceramic,Ceramic,other,other,False,True,True
+Audemars Piguet,26605CE.OO.1248CE.01,,7309000.0,44.0,44.0,Black Ceramic,Ceramic,other,other,False,True,True
+Audemars Piguet,26591CE.OO.D002CA.01,,3223000.0,42.0,42.0,Black Ceramic,Ceramic,other,other,False,True,True
+Audemars Piguet,26591CE.OO.D002CA.02,,3315000.0,42.0,42.0,Black Ceramic,Ceramic,other,other,False,True,True
+Audemars Piguet,26591TI.OO.1252TI.03,,3138000.0,42.0,42.0,Titanium,Titanium,other,other,False,True,True
+Audemars Piguet,26730BA.OO.1320BA.01,,,41.0,41.0,18-Carat Yellow Gold,Yellow Gold,other,other,False,True,True
+Audemars Piguet,26730BA.ZZ.1320BA.01,,,41.0,41.0,18-Carat Yellow Gold,Yellow Gold,other,other,False,True,True
+Audemars Piguet,26730OR.OO.1320OR.05,,,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,False,True,True
+Audemars Piguet,26730ST.OO.1320ST.05,,318549.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,False,True,True
+Audemars Piguet,26730TI.OO.1320TI.02,,1351000.0,41.0,41.0,Titanium,Titanium,other,other,False,True,True
+Audemars Piguet,26735SG.OO.1320SG.01,,2304000.0,41.0,41.0,18-Carat Sand Gold,Sand Gold,other,other,False,True,True
+Audemars Piguet,26574BC.OO.1220BC.01,,1377000.0,41.0,41.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,26574BC.OO.1220BC.02,,1321000.0,41.0,41.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,26574OR.OO.1220OR.03,,1197000.0,41.0,41.0,18-Carat Pink Gold,Pink Gold,other,other,False,True,True
+Audemars Piguet,26579CS.OO.1225CS.01,,1197000.0,41.0,41.0,Blue Ceramic,Ceramic,other,other,False,True,True
+Audemars Piguet,26585CE.OO.1225CE.01,,1474000.0,41.0,41.0,Black Ceramic,"Titanium,Ceramic",other,other,False,True,True
+Audemars Piguet,26585CM.OO.D301VE.01,,1641000.0,41.0,41.0,Brown Ceramic,Ceramic,other,other,False,True,True
+Audemars Piguet,26586TI.OO.1240TI.01,,1262000.0,41.0,41.0,Titanium,Titanium,other,other,False,True,True
+Audemars Piguet,26598BC.ZZ.1220BC.01,,1906000.0,41.0,41.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,26240BA.OO.1320BA.02,78200.0,78200.0,41.0,41.0,18-Carat Yellow Gold,Gold,other,other,True,True,True
+Audemars Piguet,26240BC.GG.1324BC.02,93800.0,93800.0,41.0,41.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,26240BC.OO.1320BC.01,96900.0,96900.0,41.0,41.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,26240BC.SS.1320BC.01,,1204000.0,41.0,41.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,26240CE.OO.1225CE.02,78200.0,78200.0,41.0,41.0,Black Ceramic,Ceramic,other,other,True,True,True
+Audemars Piguet,26240OR.OO.1320OR.05,78200.0,78200.0,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,26240OR.OO.1320OR.08,78200.0,78200.0,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,26240OR.OO.D002CR.02,53400.0,53400.0,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,26240OR.OO.D315CR.02,53400.0,53400.0,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,26240OR.OO.D404CR.02,53400.0,53400.0,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,26240ST.OO.1320ST.05,38500.0,38500.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,26240ST.OO.1320ST.06,38500.0,38500.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,26240ST.OO.1320ST.07,38500.0,38500.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,26240ST.OO.1320ST.08,38500.0,38500.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,26242OR.ZZ.1322OR.02,,1539000.0,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,False,True,True
+Audemars Piguet,26240BA.OO.1320BA.01,93100.0,93100.0,41.0,41.0,18-Carat Yellow Gold,Gold,other,other,True,True,True
+Audemars Piguet,15510BC.OO.1320BC.02,65800.0,65800.0,41.0,41.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,15510OR.OO.1320OR.03,65800.0,65800.0,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,15510OR.OO.1320OR.04,65800.0,65800.0,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,15510OR.OO.D002CR.02,43500.0,43500.0,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,15510OR.OO.D315CR.02,43500.0,43500.0,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,15510ST.OO.1320ST.06,28600.0,28600.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15510ST.OO.1320ST.07,28600.0,28600.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15510ST.OO.1320ST.08,28600.0,28600.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15510ST.OO.1320ST.09,28600.0,28600.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15510ST.OO.1320ST.10,28600.0,28600.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15512BC.ZZ.1322BC.01,,,41.0,41.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,15407BA.OO.1220BA.01,101100.0,101100.0,41.0,41.0,18-Carat Yellow Gold,Yellow Gold,other,other,True,True,True
+Audemars Piguet,15407OR.OO.1220OR.01,101100.0,101100.0,41.0,41.0,18-Carat Pink Gold,Pink Gold,other,other,True,True,True
+Audemars Piguet,15407ST.OO.1220ST.01,76400.0,76400.0,41.0,41.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15407ST.OO.1220ST.02,76400.0,76400.0,41.0,41.0,Stainless Steel,Rose Gold,other,other,True,True,True
+Audemars Piguet,15412BA.YG.1224BA.01-B,,,41.0,41.0,18-Carat Yellow Gold,Yellow Gold,other,other,False,True,True
+Audemars Piguet,15412BC.SS.1220BC.02,,,41.0,41.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,15412BC.TO.1220BC.01,,,41.0,41.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,15412BC.YG.1224BC.03-B,,,41.0,41.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,15412OR.YG.1224OR.01-B,,,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,False,True,True
+Audemars Piguet,15416CE.OO.1225CE.01,101100.0,101100.0,41.0,41.0,Black Ceramic,Ceramic,other,other,True,True,True
+Audemars Piguet,15416CE.OO.1225CE.02,101100.0,101100.0,41.0,41.0,Black Ceramic,Rose Gold,other,other,True,True,True
+Audemars Piguet,15417OR.ZZ.1267OR.01.A,,,41.0,41.0,18-Carat Pink Gold,Rose Gold,other,other,False,True,True
+Audemars Piguet,15514BC.YY.1284BC.02,,,41.0,41.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,15514BC.YY.1284BC.04,,,41.0,41.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,26670ST.OO.1240ST.02,,1523000.0,39.0,39.0,Stainless Steel,Stainless Steel,other,other,False,True,True
+Audemars Piguet,16202BA.HH.1241BA.01,,2118000.0,39.0,39.0,18-Carat Yellow Gold,Gold,other,other,False,True,True
+Audemars Piguet,16202BA.OO.1240BA.02,80700.0,80700.0,39.0,39.0,18-Carat Yellow Gold,"Gold,Gradient",other,other,True,True,True
+Audemars Piguet,16202BC.OO.1240BC.02,80700.0,80700.0,39.0,39.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,16202BC.ZZ.1241BC.01,,1612000.0,39.0,39.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,16202BC.ZZ.1241BC.02,,1474000.0,39.0,39.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,16202ST.OO.1240ST.02,36000.0,36000.0,39.0,39.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,16202XT.OO.1240XT.01,99300.0,99300.0,39.0,39.0,Titanium,Titanium,other,other,True,True,True
+Audemars Piguet,16204BA.OO.1240BA.01,,949000.0,39.0,39.0,18-Carat Yellow Gold,"Skeleton,Gold",other,other,False,True,True
+Audemars Piguet,16204BC.OO.1240BC.01,,,39.0,39.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,26319OR.AY.1256OR.01,95900.0,95900.0,38.0,38.0,18-Carat Pink Gold,Pink Gold,other,other,True,True,True
+Audemars Piguet,26715BC.ZZ.1356BC.01,,1069000.0,38.0,38.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,26715BC.ZZ.1356BC.02,,1151000.0,38.0,38.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,26715OR.OO.1356OR.01,70800.0,70800.0,38.0,38.0,18-Carat Pink Gold,Pink Gold,other,other,True,True,True
+Audemars Piguet,26715OR.ZZ.1356OR.01,77000.0,77000.0,38.0,38.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,26715OR.ZZ.1356OR.02,,1151000.0,38.0,38.0,18-Carat Pink Gold,Rose Gold,other,other,False,True,True
+Audemars Piguet,26715ST.OO.1356ST.01,37300.0,37300.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,26715ST.OO.1356ST.02,37300.0,37300.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,26715ST.ZZ.1356ST.01,43500.0,43500.0,38.0,38.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,26660BC.ZZ.1356BC.01,,2212000.0,37.0,37.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,26660ST.OO.1356ST.02,,1523000.0,37.0,37.0,Stainless Steel,Stainless Steel,other,other,False,True,True
+Audemars Piguet,15550BA.GG.1356BA.01,68300.0,68300.0,37.0,37.0,18-Carat Yellow Gold,Gold,other,other,True,True,True
+Audemars Piguet,15550BA.OO.1356BA.01,63300.0,63300.0,37.0,37.0,18-Carat Yellow Gold,Yellow Gold,other,other,True,True,True
+Audemars Piguet,15550SR.OO.1356SR.02,32100.0,32100.0,37.0,37.0,Stainless Steel,"Stainless Steel,Rose Gold",other,other,True,True,True
+Audemars Piguet,15550ST.OO.1356ST.06,27400.0,27400.0,37.0,37.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15550ST.OO.1356ST.07,27400.0,27400.0,37.0,37.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15550ST.OO.1356ST.08,27400.0,27400.0,37.0,37.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15551BC.ZZ.1356BC.01,,863000.0,37.0,37.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,15551BC.ZZ.D405CR.01,67900.0,67900.0,37.0,37.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,15551OR.ZS.D344CR.01,67900.0,67900.0,37.0,37.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,15551OR.ZZ.1356OR.04,65800.0,65800.0,37.0,37.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,15551OR.ZZ.1356OR.05,65800.0,65800.0,37.0,37.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,15551OR.ZZ.1356OR.06,65800.0,65800.0,37.0,37.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,15551ST.ZZ.1356ST.04,33600.0,33600.0,37.0,37.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15551ST.ZZ.1356ST.05,33600.0,33600.0,37.0,37.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15551ST.ZZ.1356ST.06,33600.0,33600.0,37.0,37.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,15466BC.GG.1259BC.01,100000.0,100000.0,37.0,37.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,15467BC.OO.1256BC.01,98100.0,98100.0,37.0,37.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,15467OR.OO.1256OR.01,90200.0,90200.0,37.0,37.0,18-Carat Pink Gold,Pink Gold,other,other,True,True,True
+Audemars Piguet,15467OR.OO.1256OR.02,98100.0,98100.0,37.0,37.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,15468BA.YG.1259BA.01-B,,,37.0,37.0,18-Carat Yellow Gold,"Skeleton,Gold",other,other,False,True,True
+Audemars Piguet,15468BC.YG.1259BC.01-B,,,37.0,37.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,15468OR.YG.1259OR.01-B,,,37.0,37.0,18-Carat Pink Gold,"Skeleton,Rose Gold",other,other,False,True,True
+Audemars Piguet,15469BC.ZZ.1260BC.01-A,,,37.0,37.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,15550BA.OO.1356BA.02,75800.0,75800.0,37.0,37.0,18-Carat Yellow Gold,Gold,other,other,True,True,True
+Audemars Piguet,15552BC.ZZ.1358BC.01,,1925000.0,37.0,37.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,15552OR.ZZ.1358OR.01,,1925000.0,37.0,37.0,18-Carat Pink Gold,Rose Gold,other,other,False,True,True
+Audemars Piguet,15554BC.AY.1274BC.01,,5203000.0,37.0,37.0,18-Carat White Gold,"White Gold,Crystal",other,other,False,True,True
+Audemars Piguet,15554BC.TV.1274BC.01,,5893000.0,37.0,37.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,77350CB.OO.1266CB.01,54700.0,54700.0,34.0,34.0,White Ceramic,Ceramic,other,other,True,True,True
+Audemars Piguet,77350CE.OO.1266CE.03.A,54700.0,54700.0,34.0,34.0,Black Ceramic,Ceramic,other,other,True,True,True
+Audemars Piguet,77450BA.GG.1361BA.01,62100.0,62100.0,34.0,34.0,18-Carat Yellow Gold,Yellow Gold,other,other,True,True,True
+Audemars Piguet,77450BC.GG.1361BC.01,62100.0,62100.0,34.0,34.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,77450OR.OO.1361OR.01,54700.0,54700.0,34.0,34.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,77450SR.OO.1361SR.03,29600.0,29600.0,34.0,34.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,77450ST.OO.1361ST.02,26100.0,26100.0,34.0,34.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,77451BC.ZZ.1361BC.01,,,34.0,34.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,77451OR.ZZ.1361OR.03,59600.0,59600.0,34.0,34.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,77451OR.ZZ.1361OR.04,59600.0,59600.0,34.0,34.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,77451ST.ZZ.1361ST.03,31100.0,31100.0,34.0,34.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,77451ST.ZZ.1361ST.04,31100.0,31100.0,34.0,34.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,77452BC.ZZ.1365BC.01,,1828000.0,34.0,34.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,77452OR.ZZ.1365OR.01,,1828000.0,34.0,34.0,18-Carat Pink Gold,Rose Gold,other,other,False,True,True
+Audemars Piguet,67650ST.OO.1261ST.01,17800.0,17800.0,33.0,33.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,67651OR.ZZ.1261OR.02,49700.0,49700.0,33.0,33.0,18-Carat Pink Gold,Pink Gold,other,other,True,True,True
+Audemars Piguet,67651SR.ZZ.1261SR.01,27000.0,27000.0,33.0,33.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,67651ST.ZZ.1261ST.01,23400.0,23400.0,33.0,33.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,67630BA.GG.1312BA.01,34400.0,34400.0,23.0,23.0,18-Carat Yellow Gold,Yellow Gold,other,other,True,True,True
+Audemars Piguet,67630BC.GG.1312BC.01,34400.0,34400.0,23.0,23.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,67630OR.GG.1312OR.01,34400.0,34400.0,23.0,23.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,26582CB.OO.A010CA.01,,7582000.0,44.0,44.0,White Ceramic,"Titanium,Ceramic",other,other,False,True,True
+Audemars Piguet,26622CE.OO.D002CA.01,,2625000.0,43.0,43.0,Black Ceramic,Ceramic,other,other,False,True,True
+Audemars Piguet,26622CE.OO.D002CA.02,,2809000.0,43.0,43.0,Black Ceramic,"Ceramic,Rose Gold",other,other,False,True,True
+Audemars Piguet,26622CE.OO.D062CA.01,,2360000.0,43.0,43.0,Black Ceramic,Ceramic,other,other,False,True,True
+Audemars Piguet,26420CE.OO.A043VE.01,58400.0,58400.0,43.0,43.0,Black Ceramic,Ceramic,other,other,True,True,True
+Audemars Piguet,26420CE.OO.A127CR.01,60900.0,60900.0,43.0,43.0,Black Ceramic,"Ceramic,Yellow Gold",other,other,True,True,True
+Audemars Piguet,26420IO.OO.A009CA.01,42900.0,42900.0,43.0,43.0,Titanium,"Titanium,Ceramic",other,other,True,True,True
+Audemars Piguet,26420OI.OO.A015VE.01,59600.0,59600.0,43.0,43.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,26420RO.OO.A002CA.01,62100.0,62100.0,43.0,43.0,18-Carat Pink Gold,"Pink Gold,Ceramic",other,other,True,True,True
+Audemars Piguet,26420SO.OO.A002CA.01,42900.0,42900.0,43.0,43.0,Stainless Steel,"Ceramic,Stainless Steel",other,other,True,True,True
+Audemars Piguet,26420SO.OO.A600CA.01,42900.0,42900.0,43.0,43.0,Stainless Steel,"Ceramic,Stainless Steel",other,other,True,True,True
+Audemars Piguet,26420ST.OO.A828CR.01,41600.0,41600.0,43.0,43.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,26420TI.OO.A027CA.01,41600.0,41600.0,43.0,43.0,Titanium,Titanium,other,other,True,True,True
+Audemars Piguet,26423BC.ZZ.2100BC.01,,2394000.0,43.0,43.0,18-Carat White Gold,"Ceramic,White Gold",other,other,False,True,True
+Audemars Piguet,26423BC.ZZ.D002CA.01,,1349000.0,43.0,43.0,18-Carat White Gold,"Ceramic,White Gold",other,other,False,True,True
+Audemars Piguet,26424BC.ZZ.D002CA.01,,108800.0,43.0,43.0,18-Carat White Gold,"Ceramic,White Gold",other,other,False,True,True
+Audemars Piguet,26425BC.ZZ.D002CA.01,,5617000.0,43.0,43.0,18-Carat White Gold,"Ceramic,White Gold",other,other,False,True,True
+Audemars Piguet,26425BC.ZZ.8045BC.01,,13627000.0,43.0,43.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,26425BC.ZZ.D002CA.02,,6814000.0,43.0,43.0,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,15605SK.OO.A350CA.01,27400.0,27400.0,43.0,43.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,26238BC.OO.2000BC.01,114900.0,114900.0,42.0,42.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,26238CE.OO.1300CE.01,86900.0,86900.0,42.0,42.0,Black Ceramic,Ceramic,other,other,True,True,True
+Audemars Piguet,26238OK.OO.A002CA.01,57100.0,57100.0,42.0,42.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,26238OR.OO.2000OR.01,93100.0,93100.0,42.0,42.0,18-Carat Pink Gold,"Blue,Rose Gold",other,other,True,True,True
+Audemars Piguet,26238ST.OO.2000ST.01,46600.0,46600.0,42.0,42.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,26238ST.OO.A340CA.01,39100.0,39100.0,42.0,42.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,26238TI.OO.2000TI.01,46600.0,46600.0,42.0,42.0,Titanium,Titanium,other,other,True,True,True
+Audemars Piguet,26238TI.OO.A056CA.01,39100.0,39100.0,42.0,42.0,Titanium,Titanium,other,other,True,True,True
+Audemars Piguet,15720CN.OO.A002CA.02,68300.0,68300.0,42.0,42.0,18-Carat White Gold,White Gold,other,other,True,True,True
+Audemars Piguet,15720ST.OO.A009CA.01,30500.0,30500.0,42.0,42.0,Stainless Steel,"Ceramic,Stainless Steel",other,other,True,True,True
+Audemars Piguet,15720ST.OO.A027CA.01,30500.0,30500.0,42.0,42.0,Stainless Steel,"Ceramic,Stainless Steel",other,other,True,True,True
+Audemars Piguet,15720ST.OO.A052CA.01,30500.0,30500.0,42.0,42.0,Stainless Steel,"Stainless Steel,Pink Gold,Ceramic",other,other,True,True,True
+Audemars Piguet,26231OR.ZZ.A085CA.01,59600.0,59600.0,37.0,37.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,26231ST.ZZ.A178CA.01,41800.0,41800.0,37.0,37.0,Stainless Steel,Stainless Steel,other,other,True,True,True
+Audemars Piguet,26236BA.YY.D346CA.01,114200.0,114200.0,37.0,37.0,18-Carat Yellow Gold,Yellow Gold,other,other,True,True,True
+Audemars Piguet,26236OR.YY.D002CA.01,114200.0,114200.0,37.0,37.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,77605OK.OO.A101CA.01,47200.0,47200.0,37.0,37.0,18-Carat Pink Gold,Rose Gold,other,other,True,True,True
+Audemars Piguet,77600CE.OO.A002CA.01,43500.0,43500.0,37.0,37.0,Black Ceramic,Ceramic,other,other,True,True,True
+Audemars Piguet,26589IO.OO.D056CA.01,,1842000.0,44.0,44.0,Titanium,Titanium Gold,other,other,False,True,True
+Audemars Piguet,26589IO.OO.D500CA.01,,1842000.0,44.0,44.0,Titanium,Titanium,other,other,False,True,True
+Audemars Piguet,26650FO.OO.D353CA.01,,,43.0,43.0,Carbon,,other,,False,True,False
+Audemars Piguet,26650TI.OO.D013CA.01,,1566000.0,43.0,43.0,Titanium,Titanium,other,other,False,True,True
+Audemars Piguet,26631IO.OO.D002CA.01,,1796000.0,42.0,42.0,Titanium,Titanium Gold,other,other,False,True,True
+Audemars Piguet,26227BC.YY.D326CR.01-A,,,38.5,38.5,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,26228BC.ZZ.D011CR.01,,4256000.0,38.5,38.5,18-Carat White Gold,White Gold,other,other,False,True,True
+Audemars Piguet,26228OR.SS.D314CR.01,,4256000.0,38.5,38.5,18-Carat Pink Gold,Pink Gold,other,other,False,True,True
+Audemars Piguet,26630OR.GG.D626CR.01,,1630000.0,38.5,38.5,18-Carat Pink Gold,"Brown,Copper,Rose Gold,Gold",other,other,False,True,True
+Audemars Piguet,15240SG.OO.A347CR.01,47200.0,47200.0,41.0,41.0,18-Carat Sand Gold,Sand Gold,other,other,True,True,True
