@@ -447,6 +447,40 @@ df_filtered = df_filtered[
 
 st.title("TimeZ QA analysis")
 
+st.markdown(
+    """
+---
+
+### **Welcome to the TimeZ QA Analysis Dashboard!**
+
+Here's a quick overview of the features and filters available to help you navigate the analysis:
+
+1. **Selected Brands:**
+   - **5 Brands Chosen by Default:** You can modify the selection to include or remove brands as needed.
+
+2. **Missing Data Handling:**
+   - **Excluded by Default:** To ensure data accuracy, records with missing values are excluded by default.
+   - **Customizable Inclusion:** If you wish to include records with missing values, simply untick the respective checkboxes in the sidebar.
+
+3. **Price Filters:**
+   - **Price Range Slider:**
+     - **TimeZ Data:** Adjust the slider to filter watches based on their price in the TimeZ dataset.
+     - **Brand Data:** Similarly, filter watches based on their price in the brand's dataset.
+   - **Price Categories:**
+     - **Regular-Priced:** Watches priced between \$0 and \$500,000.
+     - **High-Priced:** Watches priced above \$500,000.
+     - **Both Categories:** View watches across both regular and high-priced categories.
+
+4. **Case Diameter Filter:**
+   - **Adjustable Range:** Use the sliders to filter watches based on their case diameter (in millimeters) for both TimeZ and Brand Data.
+
+5. **Case Material Filter:**
+   - **Top Materials Displayed:** Filter watches based on their case material, ranked in descending order of occurrence within the dataset. 
+
+---
+"""
+)
+
 # **Display Filtered Data Summary**
 st.header("Filtered Data Summary")
 st.write(f"Number of records after filtering: {df_filtered.shape[0]}")
